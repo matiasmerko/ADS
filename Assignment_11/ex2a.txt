@@ -1,0 +1,8 @@
+I will show this by giving a counter example;
+Activity 1: s=2 f=3 => also the shortest activity
+Activity 2: s=0 f=2
+Activity 3: s=2 f=6
+The algorithm will pick activity 1 and will not be able 
+pick any other activities if it does so. On the other hand,
+if we used the proper greedy method, it would choose activity 2 and 3
+ 

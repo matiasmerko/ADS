@@ -1,0 +1,10 @@
+/**
+ * Exerciese 1e)
+ * Worst case would be if all elements ended up in the same
+ * bucket, then depending on the sorting algorithm we use, we can find
+ * the worst case time complexity.
+ * If we use insertion sort, then the worst case will be O(n^2)
+ * An example would be:
+ *   If all the elements ended up in one bucket, and the bucket had elements
+ *   in decreasing order.
+ * */
